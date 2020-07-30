@@ -1,16 +1,16 @@
 <template>
-  <div id="app">
-    11112
-  </div>
+<div>
+    <div>index</div>
+</div>
+ 
 </template>
 
 <script>
-
 export default {
-  name: 'App'
+  name: 'index',
+
 }
 </script>
-
-<style>
+<style scoped>
 
 </style>
